@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+redis
+websockets
+pytest
+httpx
+colorama
