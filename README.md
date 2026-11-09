@@ -13,6 +13,7 @@
 
 ## 🏗️ Architecture & Workflow
 
+![AgentSentinel Dashboard](docs/dashboard.png)
 Every autonomous agent tool call or prompt passes through the **AgentSentinel Interceptor** before reaching external APIs, databases, or payment gateways:
 
 ```text
